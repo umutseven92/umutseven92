@@ -1,4 +1,4 @@
-### 🖖
+### Hi, Umut here 🖖
 
 Full Stack Software Engineer with a knack for telecommunications, blockchain & information security, with an M.S. in Software Engineering from Boğaziçi University.
 
