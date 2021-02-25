@@ -11,7 +11,7 @@ Currently working as a Search Engineer at [Cookpad](https://www.cookpadteam.com/
 * **Languages:** Python, Dart, C#, Java, Javascript, SQL, HTML, CSS, F#, C, Prolog
 * **Frameworks:** Django, Flask, FastAPI, Flutter, Svelte, .NET, Spring
 * **Cloud:** AWS, GCP, Firebase
-* **Misc:** Docker, Kubernetes
+* **Misc:** Docker, Kubernetes, Terraform
 
 ### Contact
 
