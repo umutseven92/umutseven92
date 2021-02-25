@@ -16,7 +16,7 @@ Currently working as a Search Engineer at [Cookpad](https://www.cookpadteam.com/
 ### Contact
 
 - ✉️ [umutseven92@gmail.com](mailto:umutseven92@gmail.com)
-- 👨‍💻 [github.com/umutseven92](github.com/umutseven92)
+- 👨‍💻 [github.com/umutseven92](https://github.com/umutseven92)
 - 🌐 [umutseven.com](https://umutseven.com)
 - 📰 [medium.com/@umutseven](https://medium.com/@umutseven)
 - 👔 [linkedin.com/in/umut-seven-03a459107/](https://www.linkedin.com/in/umut-seven-03a459107/)
