@@ -4,7 +4,7 @@ Over 5 years of experience as a Full Stack Software Engineer with a focus on API
 
 M.S. in Software Engineering from Boğaziçi University.
 
-Currently working as a Search Engineer at [Cookpad](https://www.cookpadteam.com/).
+Currently a Lead Engineer at [Cookpad](https://www.cookpadteam.com/).
 
 ### Tech
 
