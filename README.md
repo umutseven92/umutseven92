@@ -8,7 +8,7 @@ Currently a Lead Engineer at [Cookpad](https://www.cookpadteam.com/).
 
 ### Tech
 
-* **Languages:** Python, Dart, C#, Java, Javascript, SQL, HTML, CSS, F#, C, Prolog
+* **Languages:** Python, Rust, Dart, C#, Java, Javascript, SQL, HTML, CSS, F#, C, Prolog
 * **Frameworks:** Django, Flask, FastAPI, Flutter, Svelte, .NET, Spring
 * **Cloud:** AWS, GCP, Firebase
 * **DevOps:** Docker, Kubernetes, Terraform
