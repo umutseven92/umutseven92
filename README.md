@@ -1,6 +1,8 @@
 ### Cyberspace. A consensual hallucination experienced daily by billions of legitimate operators, in every nation.
 
 Over 5 years of experience as a Full Stack Software Engineer with a focus on APIs and microservices.
+Experienced in building reliable & scalable systems, from web and mobile apps to back-end services
+and infrastructure.
 
 M.S. in Software Engineering from Boğaziçi University.
 
@@ -8,11 +10,11 @@ Currently a Lead Engineer at [Cookpad](https://www.cookpadteam.com/).
 
 ### Tech
 
-* **Languages:** Python, Rust, Dart, C#, Java, Javascript, SQL, HTML, CSS, F#, C, Prolog
+* **Languages:** Python, Rust, Dart, C#, Java, JavaScript, SQL, HTML, CSS, F#, C, Prolog
 * **Frameworks:** Django, Flask, FastAPI, Flutter, Svelte, .NET, Spring
 * **Cloud:** AWS, GCP, Firebase
 * **DevOps:** Docker, Kubernetes, Terraform
-* **Other:** Elasticsearch (ELK), Lucene, Kafka
+* **Other:** Elasticsearch, Lucene, Kafka
 
 ### Contact
 
