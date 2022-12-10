@@ -1,6 +1,6 @@
 ### Cyberspace. A consensual hallucination experienced daily by billions of legitimate operators, in every nation.
 
-Over 5 years of experience as a Full Stack Software Engineer with a focus on APIs and microservices.
+Over 7 years of experience as a Full Stack Software Engineer with a focus on APIs and microservices.
 Experienced in building reliable & scalable systems, from web and mobile apps to back-end services
 and infrastructure.
 
