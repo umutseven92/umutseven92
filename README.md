@@ -6,7 +6,7 @@ Experienced in building reliable & scalable systems, from Web and Mobile apps, t
 
 M.S. in Software Engineering from Boğaziçi University.
 
-Currently a Lead Engineer at [Cookpad](https://www.cookpadteam.com/).
+Currently a Senior Software Engineer at [Sunbeam](https://www.sunbeam.cx/).
 
 ### Tech
 
