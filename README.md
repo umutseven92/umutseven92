@@ -2,6 +2,8 @@
 
 Seasoned Full Stack Software Engineer with a decade of expertise in API and Microservice development. My passion lies in delivering reliable and scalable solutions, covering everything from intuitive web and mobile experiences to complex backend infrastructure designed to serve millions of users. I've thrived in diverse environments, from large corporations to early-stage startups.
 
+In short, I'm an engineer; I solve problems.
+
 M.S. in Software Engineering, Boğaziçi University.
 
 Currently a Senior Software Engineer at [Sunbeam](https://www.sunbeam.cx/).
